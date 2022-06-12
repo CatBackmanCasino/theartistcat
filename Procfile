@@ -1,1 +1,1 @@
-web: gunicorn catphotoblog.wsgi:application --log-file -
+web: gunicorn catphotoblog.wsgi
